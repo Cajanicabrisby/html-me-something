@@ -1,16 +1,25 @@
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>Manifesting the Life I Deserve</title>
-      <style>
+
+      
          body {
-           background-color: cornflowerblue;
-         }
-         h2 {
-           color: green;
+           background-color: pink;
+           background-image:url('Images/Manifest.jpeg');
+           background-repeat: no-repeat;
+           background-size: contain;
          }
          p {
-           font-size: 18px;
+           color: orange;
          }
-      </style>
-   </head>
+         h1, h2. h3, h4, h5 {
+           font-size: 36px;
+         }
+         h3, h5 {
+           text-align: center;
+         }
+         #cool-text {
+           color: purple;
+         }
+         #list-text {
+           color: green;
+         }
+         
+  
